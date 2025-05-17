@@ -2,7 +2,7 @@
 # TULATASK_REPORT
 As part of a data analytics internship application for Tula Capital, I developed a comprehensive Business Intelligence dashboard using Power BI to analyze trade strategy performance across three datasets. The goal was to consolidate, visualize, and derive actionable insights from trading activity.
 
-
+https://app.powerbi.com/groups/me/reports/7eb76cbb-e149-424f-951a-1dc52a56ee67/607ff23c651aa500ebd1?experience=power-bi
 🔧 Key Features & Tasks:
 ✅ Data Integration:
 
